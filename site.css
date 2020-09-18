@@ -1,0 +1,202 @@
+body{
+    margin:0;
+    background-image:url("imagens/bannersaude.jpg") ;
+    background-repeat:repeat-y;
+    background-size: 100%;
+}
+header{
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 188px;
+    position: fixed;
+    border: 2px solid blue;
+
+}
+li#teste{
+    list-style: none;
+    padding: 5 10 15 20;
+
+}
+li:hover{
+    background-color: rgb(77, 182, 182);
+
+
+}
+
+div#lugar{
+    height:100%;
+    width: 49px;
+    position: fixed;
+    background-color: blue;
+    margin-top:95px;
+    margin-left: 2px;
+}
+
+.barra{
+    height:27px;
+    width: 188px;
+    position: fixed;
+    background-color: blue;
+    margin-top:70px;
+    margin-left: 2px;
+
+}
+
+div#texto{
+    background-color: 	#87CEEB;
+    position: absolute;
+    width:63%;
+    margin-left:310px;
+    margin-top:10px;
+    border: 4px solid blue;
+
+
+}
+h1{
+    font-size:60px;
+    margin:0;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+p{
+    font-size:27px;
+    color: #1C1C1C;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+}
+
+.link{
+    text-indent:70;
+    
+}
+
+.titulo{
+    color: #1C1C1C;
+    font-size:60px;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform:uppercase;
+}
+
+.inicio{
+    color:#1C1C1C;
+    font-size:22px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:justify;
+    text-indent:70px;
+}
+
+.sub{
+    color:#1C1C1C;
+    font-size:50px;
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.subsub{
+    font-size:31px;
+    color:#1C1C1C;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    text-indent:50;
+}
+
+#saude{
+    font-size:33px;
+    text-align:left;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:black;
+    font-weight: 900 ;
+
+}
+
+img.primeiro{
+    width:587px;
+    height:173px;
+    margin-right: 127px;
+    
+}
+
+#aids{
+    width: 280;
+    height: 130;
+}
+
+#malaria{
+    width: 280;
+    height: 130;
+}
+
+#tuberculose{
+    width: 280;
+    height: 130;
+}
+
+#drogas{
+    width: 400;
+    height: 200;
+}
+
+#alcool{
+    width: 400;
+    height: 200;
+}
+
+
+a{
+    text-decoration: none;
+    
+}
+
+a:visited{
+    color: white;
+
+}
+
+a:link{
+    color: blue;
+
+
+}
+
+#tres{
+    height: 180px;
+    width: 850px;
+
+}
+
+#sobre{
+    background-color: rgb(3, 3, 85);
+    width: 1150px;
+    height: 300px;
+    border: 4px solid black;
+    margin-top: 220%;
+    position: absolute;
+    margin-left: 191px;
+   
+
+}
+
+h6{
+    padding: 0%;
+    font-size:25px;
+
+
+}
+
+#sobree{
+    font-size:40px;
+    color: white;
+
+}
